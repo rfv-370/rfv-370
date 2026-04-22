@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @rfv-370
-- 👀 Coding since 1976 !
+- 👀 Coding since CP/M !
 
 <!---
 rfv-370/rfv-370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
